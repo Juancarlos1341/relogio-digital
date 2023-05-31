@@ -1,0 +1,46 @@
+body {
+    background-image: linear-gradient(to right, #4c6c81, #083263);
+    color: azure;
+}
+
+header {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin: 4rem;
+}
+
+.relogio {
+    text-align: center;
+    width: 45rem;
+    margin: 15rem auto 0 auto;
+}
+
+.relogio ul {
+    border: .5rem solid #000000;
+    border-radius: 3rem;
+    box-shadow: 1rem 1rem 2rem orange;
+    padding: 3rem;
+    background-color: bisque;
+    color: black;
+}
+
+.relogio ul li {
+    display: inline-block;
+    font-size: 1.5rem;
+    border: .5rem solid #000000;
+    border-radius: 1.2rem;
+    box-shadow: 1rem 1rem 2rem black;
+    margin: .5rem;
+}
+
+div {
+    margin-top: 1rem;
+}
+
+.tempo {
+    margin: 2rem;
+    font-size: 2rem;
+}
